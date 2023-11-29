@@ -48,7 +48,7 @@
     "brainflow/lib/*"
   ],
   "dependencies": {
-    "koffi": "2.5.7",
+    "koffi": "2.6.6",
     "lodash": "4.17.21"
   }
 }
