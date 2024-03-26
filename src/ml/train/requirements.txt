@@ -3,3 +3,4 @@ brainflow
 metric-learn
 libsvm
 skl2onnx 
+onnx>=1.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
