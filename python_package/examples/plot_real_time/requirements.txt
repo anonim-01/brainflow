@@ -3,3 +3,4 @@ PyQt5-Qt5==5.15.2
 PyQt5-sip==12.11.0
 pyqtgraph==0.12.4
 brainflow
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
