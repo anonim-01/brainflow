@@ -49,6 +49,6 @@
   ],
   "dependencies": {
     "koffi": "2.5.7",
-    "lodash": "4.17.21"
+    "lodash": "4.17.23"
   }
 }
